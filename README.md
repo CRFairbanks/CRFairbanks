@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CRFairbanks , Cody R. Fairbanks 
 - 👀 I’m interested in Front-End development, Cloud Computing, Machine Learning & AI
-- 🌱 I am currently a student studying Computer Science at The Pennsylvania State University
+- 🌱 I current have a B.S. in Computer Science from Penn State University
 - 💞️ I’m looking to collaborate on any avaialble projects to gain some field experience
 - 📫 Reach me by email or phone, respectively:
--           E: CRF205@psu.edu 
+-           E: CRF1015@outlook.com
 -           P: (732)-278-9694
 
 <!---
